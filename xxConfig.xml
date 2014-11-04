@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<version v="1000" />
+	<need_dl v="0">http://www.xingxing.com/xingxing.apk</need_dl>
+	<normal v="1"/>
+	<sv_url v="" />
+</config>
+
